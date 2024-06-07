@@ -1,0 +1,31 @@
+{
+  "persons": [
+    {
+      "date": "6/6/2024",
+      "product": "course-vue",
+      "name": "Jany Creek",
+      "email": "jeny@creek.com",
+      "phone": 9991111111,
+      "status": "new",
+      "id": 1
+    },
+    {
+      "date": "6/6/2024",
+      "product": "course-js",
+      "name": "Sara Mayer",
+      "email": "sara",
+      "phone": 9992225555,
+      "status": "inwork",
+      "id": 2
+    },
+    {
+      "date": "6/6/2024",
+      "product": "course-html",
+      "name": "John Corner",
+      "email": "john@corner.com",
+      "phone": 9992222222,
+      "status": "inwork",
+      "id": 4
+    }
+  ]
+}
